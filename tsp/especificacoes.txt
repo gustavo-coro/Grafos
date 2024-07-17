@@ -1,0 +1,58 @@
+# File path to the adjacency matrix file
+file_path = 'att48_d.txt'
+
+# Creating the graph from the adjacency matrix
+G = create_graph_from_adjacency_matrix(file_path)
+
+number_of_iterations = 480
+population_number = 480
+number_of_parents = 216
+mutation_rate = 0.08
+elitism_rate = 120
+crossover_rate = 7
+number_of_cities = G.number_of_nodes()
+
+
+# File path to the adjacency matrix file
+file_path = 'lau15_dist.txt'
+
+# Creating the graph from the adjacency matrix
+G = create_graph_from_adjacency_matrix(file_path)
+
+number_of_iterations = 150
+population_number = 150
+number_of_parents = 68
+mutation_rate = 0.08
+elitism_rate = 20
+crossover_rate = 2
+number_of_cities = G.number_of_nodes()
+
+
+# File path to the adjacency matrix file
+file_path = 'sgb128_dist.txt'
+
+# Creating the graph from the adjacency matrix
+G = create_graph_from_adjacency_matrix(file_path)
+
+number_of_iterations = 5000
+population_number = 1280
+number_of_parents = 576
+mutation_rate = 0.08
+elitism_rate = 160
+crossover_rate = 15
+number_of_cities = G.number_of_nodes()
+
+
+# File path to the adjacency matrix file
+file_path = 'dantizig42_d.txt'
+
+# Creating the graph from the adjacency matrix
+G = create_graph_from_adjacency_matrix(file_path)
+
+number_of_iterations = 450
+population_number = 450
+number_of_parents = 200
+mutation_rate = 0.08
+elitism_rate = 100
+crossover_rate = 7
+number_of_cities = G.number_of_nodes()

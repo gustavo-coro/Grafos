@@ -1,0 +1,2390 @@
+Algoritimo de aproximação
+Esquinas com Câmera: 467
+
+Esquina de label: 1763815928
+Ruas cobertas pela câmera: 
+Rua Rossini Bacarini
+Rua Maestro Telemâco Neves
+
+Esquina de label: 1527527528
+Ruas cobertas pela câmera: 
+Rua João da Mata
+Rua Ribeiro Bastos
+Praça Doutor Guilherme Milward
+Rua Tenente Mário César Lopes
+
+Esquina de label: 3612842128
+Ruas cobertas pela câmera: 
+Rua Armênio Reis
+
+Esquina de label: 3611104712
+Ruas cobertas pela câmera: 
+Rua da Prefeitura
+Rua São João Del Rei
+
+Esquina de label: 3206672875
+Ruas cobertas pela câmera: 
+Rua Padre José Maria Xavier
+Avenida Tiradentes
+
+Esquina de label: 1755770228
+Ruas cobertas pela câmera: 
+Rua Lavras
+Rua Ipraí
+
+Esquina de label: 410707432
+Ruas cobertas pela câmera: 
+Rua Resende Costa
+Rua Marechal Bittencourt
+Rua Getúlio Vargas
+
+Esquina de label: 8377303704
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 138--
+
+Esquina de label: 1763813583
+Ruas cobertas pela câmera: 
+Rua João da Mata
+Rua Operário Uriel de Moura Pereira
+
+Esquina de label: 410707526
+Ruas cobertas pela câmera: 
+Rua Comendador Bastos
+Avenida Nossa Senhora do Pilar
+Avenida Andrade Reis
+
+Esquina de label: 1752079714
+Ruas cobertas pela câmera: 
+Rua Severo Carazza
+Rua Padre Faustino
+
+Esquina de label: 3208802824
+Ruas cobertas pela câmera: 
+Rua Doutor Garcia de Lima
+Avenida Nossa Senhora do Pilar
+
+Esquina de label: 1755729508
+Ruas cobertas pela câmera: 
+Rua Alexandro Agostini
+Rua Edgar Resende Rios
+
+Esquina de label: 3611297287
+Ruas cobertas pela câmera: 
+Rua Expedicionário Geraldo Soares
+--Rua Sem Nome 126--
+
+Esquina de label: 410707596
+Ruas cobertas pela câmera: 
+Rua Maria Teresa
+Rua Quintino Bocaiuva
+Rua Comendador Costa
+
+Esquina de label: 1755775786
+Ruas cobertas pela câmera: 
+Rua Sargento Agostinho São Rios
+
+Esquina de label: 3209432009
+Ruas cobertas pela câmera: 
+Praça Barão de Itambé
+Rua Padre Lourival Salvo Rios
+Praça Francisco Neves
+
+Esquina de label: 3206672873
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 38--
+Rua Padre José Maria Xavier
+
+Esquina de label: 3610822404
+Ruas cobertas pela câmera: 
+Rua Felipe Marchetti
+Rua Carvalhoo Campos
+
+Esquina de label: 3615992815
+Ruas cobertas pela câmera: 
+Rua Santo Elias
+Rua Altamiro Flor
+--Rua Sem Nome 108--
+
+Esquina de label: 1763815930
+Ruas cobertas pela câmera: 
+Rua Rossini Bacarini
+--Rua Sem Nome 22--
+Rua Afonsina Alvarenga
+
+Esquina de label: 8086864105
+Ruas cobertas pela câmera: 
+Rua Doutor Mateus Salomé
+Rua Luís Bacarini
+
+Esquina de label: 3611282874
+Ruas cobertas pela câmera: 
+Rua Operário André Gonçalves
+Rua Antônio Floriano da Silva
+
+Esquina de label: 1764588787
+Ruas cobertas pela câmera: 
+Rua Delegado José Lima
+Rua João Félix Teixeira
+
+Esquina de label: 1764559216
+Ruas cobertas pela câmera: 
+Rua Maestro Batista Lopes
+Rua José do Patrocínio
+
+Esquina de label: 1755762580
+Ruas cobertas pela câmera: 
+Rua do Ouro
+Rua Francisco Reinaldo
+
+Esquina de label: 2800906155
+Ruas cobertas pela câmera: 
+Rua Modestino Ribeiro
+Avenida General Osório
+Rua Modestino Rabelo
+
+Esquina de label: 3000897637
+Ruas cobertas pela câmera: 
+Avenida Presidente Tancredo Neves
+Rua José Leite de Andrade
+
+Esquina de label: 3617579671
+Ruas cobertas pela câmera: 
+Rua Bento Portela
+Rua José Martins Garcia
+
+Esquina de label: 3209444354
+Ruas cobertas pela câmera: 
+Rua Antônio Crino
+Rua Beatriz Ambrosio Vieira
+
+Esquina de label: 3612976733
+Ruas cobertas pela câmera: 
+Avenida Presidente Tancredo Neves
+Rua Amélia Ribeiro Guedes
+
+Esquina de label: 1755775794
+Ruas cobertas pela câmera: 
+Rua Doutor Carlos Velasco
+Rua Frei Estevão
+
+Esquina de label: 3612786099
+Ruas cobertas pela câmera: 
+Rua Vereador Vicente Cantelmo
+Rua Ubá
+
+Esquina de label: 3208839953
+Ruas cobertas pela câmera: 
+Rua Padre Sacramento
+Praça Duque de Caxias
+
+Esquina de label: 3209516673
+Ruas cobertas pela câmera: 
+Rua José Valentim da Silva
+--Rua Sem Nome 44--
+
+Esquina de label: 3611104711
+Ruas cobertas pela câmera: 
+Rua da Prefeitura
+Avenida 8 de Dezembro
+--Rua Sem Nome 134--
+
+Esquina de label: 3615217020
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 118--
+Rua João Magalhães
+
+Esquina de label: 1752056091
+Ruas cobertas pela câmera: 
+Rua Prefeito Nascimento Teixeira
+Rua Doutor Basílio de Magalhães
+
+Esquina de label: 3208868480
+Ruas cobertas pela câmera: 
+Avenida Eduardo Magalhães
+Rua Hermílio Alves
+Rua Antônio Rocha
+
+Esquina de label: 410707437
+Ruas cobertas pela câmera: 
+Rua Artur Bernardes
+Rua Marechal Deodoro
+
+Esquina de label: 3617532685
+Ruas cobertas pela câmera: 
+Rua Lavras
+Rua Altamiro Flor
+Rua Ipraí
+
+Esquina de label: 1755729506
+Ruas cobertas pela câmera: 
+Rua Antônio Alves de Aquino
+Rua Frei Estevão
+Rua Rubens Santiago dos Santos
+
+Esquina de label: 410707402
+Ruas cobertas pela câmera: 
+Rua Doutor Mourão Filho
+Rua Doutor Vicente Albergaria
+Rua Luís Bacarini
+Rua Doutor João Salustiano
+
+Esquina de label: 1763813520
+Ruas cobertas pela câmera: 
+Rua João Ribeiro da Silva
+
+Esquina de label: 3213898403
+Ruas cobertas pela câmera: 
+Rua José Carlos das Neves
+Avenida 8 de Dezembro
+
+Esquina de label: 1763742182
+Ruas cobertas pela câmera: 
+Rua Carvalhoo Campos
+
+Esquina de label: 3131570282
+Ruas cobertas pela câmera: 
+Rua João Rosa
+Rua Antônio de Assis
+
+Esquina de label: 3278704572
+Ruas cobertas pela câmera: 
+Rua Ana de Oliveira Silva
+
+Esquina de label: 1752079815
+Ruas cobertas pela câmera: 
+Rua Severo Carazza
+--Rua Sem Nome 101--
+
+Esquina de label: 3209381522
+Ruas cobertas pela câmera: 
+Travessa Osvaldo da Fonseca Torga
+Rua do Carmo
+
+Esquina de label: 410707447
+Ruas cobertas pela câmera: 
+Rua Maria Teresa
+Rua Comendador Bastos
+
+Esquina de label: 410707443
+Ruas cobertas pela câmera: 
+Avenida Eduardo Magalhães
+Rua Maria Teresa
+Rua Hermílio Alves
+--Rua Sem Nome 3--
+
+Esquina de label: 3131570259
+Ruas cobertas pela câmera: 
+Rua Senhor dos Santos
+Rua Antônio de Assis
+
+Esquina de label: 3209469171
+Ruas cobertas pela câmera: 
+Rua Antônio Cirino Rodrigues
+Rua Antônio Crino
+
+Esquina de label: 410707418
+Ruas cobertas pela câmera: 
+Praça Embaixador Gastão da Cunha
+Rua Santo Antônio
+Rua Getúlio Vargas
+
+Esquina de label: 1764582172
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 135--
+Rua João da Mata
+
+Esquina de label: 1755744263
+Ruas cobertas pela câmera: 
+Rua Professora Eugênia Vieira de Souza
+Rua Rodrigues de Melo
+
+Esquina de label: 1755729505
+Ruas cobertas pela câmera: 
+Rua Geraldo Canário
+Rua Ana de Oliveira Silva
+
+Esquina de label: 2053163002
+Ruas cobertas pela câmera: 
+Rua José Antônio Pereira
+--Rua Sem Nome 32--
+--Rua Sem Nome 91--
+
+Esquina de label: 1537807508
+Ruas cobertas pela câmera: 
+Rua Sebastião Sette
+Rua Marechal Bittencourt
+
+Esquina de label: 1755744264
+Ruas cobertas pela câmera: 
+Rua Farmacêutico Desidério Rodarte
+Rua Rodrigues de Melo
+
+Esquina de label: 1755775732
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 124--
+Rua Antônio de Moura Carvalho
+
+Esquina de label: 3611376167
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 91--
+Rua Antônio M. C. Filho
+
+Esquina de label: 1764559207
+Ruas cobertas pela câmera: 
+Avenida General Osório
+Rua Maestro Telemâco Neves
+
+Esquina de label: 1752079765
+Ruas cobertas pela câmera: 
+Rua Geraldo C. Almeida
+Rua Nina Barbosa Neves
+Rua Carmélio Rubens
+
+Esquina de label: 1764588788
+Ruas cobertas pela câmera: 
+Rua Fernando Caldas
+Rua José Valentim da Silva
+
+Esquina de label: 3209188873
+Ruas cobertas pela câmera: 
+Rua José Gontijo de Lima
+Rua Padre Faustino
+
+Esquina de label: 3209516682
+Ruas cobertas pela câmera: 
+Avenida General Osório
+Praça Nossa Senhora de Fátima
+
+Esquina de label: 1763815925
+Ruas cobertas pela câmera: 
+Rua Lourival José dos Santos
+Rua Francisco de Assis Cunha
+
+Esquina de label: 3616051834
+Ruas cobertas pela câmera: 
+Rua Resende Costa
+--Rua Sem Nome 110--
+
+Esquina de label: 1752079737
+Ruas cobertas pela câmera: 
+Rua Geraldo C. Almeida
+--Rua Sem Nome 12--
+
+Esquina de label: 410707460
+Ruas cobertas pela câmera: 
+Rua Doutor Mourão Filho
+Rua Ribeiro Bastos
+
+Esquina de label: 3131570288
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 34--
+Rua José Pedro de Azevedo
+--Rua Sem Nome 123--
+
+Esquina de label: 8377388691
+Ruas cobertas pela câmera: 
+Avenida Eduardo Magalhães
+Rua Padre José Maria Xavier
+
+Esquina de label: 1752079778
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 32--
+--Rua Sem Nome 29--
+Rua Geraldo C. Almeida
+
+Esquina de label: 410707422
+Ruas cobertas pela câmera: 
+Rua João Mourão
+Travessa Lopes
+Rua do Carmo
+
+Esquina de label: 3616016439
+Ruas cobertas pela câmera: 
+Rua Altamiro Flor
+Travessa Sebastião Neri
+
+Esquina de label: 3611214300
+Ruas cobertas pela câmera: 
+Rua Vila Reis
+Rua Doutor Basílio de Magalhães
+
+Esquina de label: 4158205478
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 136--
+Avenida Andrade Reis
+
+Esquina de label: 1755775723
+Ruas cobertas pela câmera: 
+Rua Laudelino do Nascimento
+Rua Francisco Reinaldo
+
+Esquina de label: 3209188885
+Ruas cobertas pela câmera: 
+Rua José Gontijo de Lima
+Rua Engenheiro Bicalho
+
+Esquina de label: 3611104727
+Ruas cobertas pela câmera: 
+Rua Padre José Pedro
+--Rua Sem Nome 137--
+Rua Comendador Bastos
+
+Esquina de label: 3131570263
+Ruas cobertas pela câmera: 
+Rua Monte Carmelo
+
+Esquina de label: 1537807507
+Ruas cobertas pela câmera: 
+Rua Comendador Bastos
+Avenida Nossa Senhora do Pilar
+Avenida Andrade Reis
+
+Esquina de label: 3612842121
+Ruas cobertas pela câmera: 
+Rua Antônio José Gomes Carneiro
+Praça Doutor Fausto Mourão
+
+Esquina de label: 3616180783
+Ruas cobertas pela câmera: 
+Rua Antônio de Moura Carvalho
+Travessa do Ouro
+
+Esquina de label: 3616051821
+Ruas cobertas pela câmera: 
+Rua Resende Costa
+Rua Vigário Amâncio
+
+Esquina de label: 3209278533
+Ruas cobertas pela câmera: 
+Rua João Jacobe
+Rua Amélia Ribeiro Guedes
+Praça Doutor Antônio Viegas
+
+Esquina de label: 1755770205
+Ruas cobertas pela câmera: 
+Travessa José Batista de Souza
+Praça Professor José Batista de Souza
+Rua Padre Lourival Salvo Rios
+Praça Francisco Neves
+
+Esquina de label: 1752079750
+Ruas cobertas pela câmera: 
+Rua Geraldo Pinto Lima
+Rua Antônio M. C. Filho
+
+Esquina de label: 1752079744
+Ruas cobertas pela câmera: 
+Alameda do Castro
+Travessa Castro
+Rua Padre Faustino
+
+Esquina de label: 1537812508
+Ruas cobertas pela câmera: 
+Rua Sargento Wilson Ramos
+Avenida Nossa Senhora do Pilar
+
+Esquina de label: 410707866
+Ruas cobertas pela câmera: 
+Rua Padre Sacramento
+Avenida 8 de Dezembro
+Rua Comendador Costa
+
+Esquina de label: 410707368
+Ruas cobertas pela câmera: 
+Rua Hermílio Alves
+--Rua Sem Nome 5--
+
+Esquina de label: 3209250774
+Ruas cobertas pela câmera: 
+Rua Artur Bernardes
+Rua Getúlio Vargas
+
+Esquina de label: 1764538750
+Ruas cobertas pela câmera: 
+Rua Ribeiro Bastos
+Praça Doutor Guilherme Milward
+
+Esquina de label: 1764588785
+Ruas cobertas pela câmera: 
+Rua Vereador Vicente Cantelmo
+Rua João Félix Teixeira
+
+Esquina de label: 8382988069
+Ruas cobertas pela câmera: 
+Alameda Carlos Sanzio
+
+Esquina de label: 410707376
+Ruas cobertas pela câmera: 
+Rua Getúlio Vargas
+Rua Santa Teresa
+Travessa Osvaldo da Fonseca Torga
+
+Esquina de label: 3209516678
+Ruas cobertas pela câmera: 
+Rua Padre Rocha
+Rua São Caetano
+
+Esquina de label: 8382710011
+Ruas cobertas pela câmera: 
+Avenida Presidente Tancredo Neves
+--Rua Sem Nome 4--
+
+Esquina de label: 1755744279
+Ruas cobertas pela câmera: 
+Rua Domingos Camarano
+Praça Doutor Fausto Mourão
+
+Esquina de label: 3209428658
+Ruas cobertas pela câmera: 
+Rua Resende Costa
+Rua do Cotovelo
+Rua José Veigas
+
+Esquina de label: 1755770224
+Ruas cobertas pela câmera: 
+Travessa Fernando Caldas
+Rua Maestro Batista Lopes
+Rua Fernando Caldas
+
+Esquina de label: 3617717571
+Ruas cobertas pela câmera: 
+Rua do Cruzeiro
+--Rua Sem Nome 123--
+
+Esquina de label: 3278703854
+Ruas cobertas pela câmera: 
+Rua Rubens Santiago dos Santos
+
+Esquina de label: 3214297384
+Ruas cobertas pela câmera: 
+Travessa Augusto Gode
+Rua Aldo Zerlotine
+
+Esquina de label: 8374844546
+Ruas cobertas pela câmera: 
+Rua Contador Sebastião Mendes
+Rua Ana de Oliveira Silva
+
+Esquina de label: 1752079723
+Ruas cobertas pela câmera: 
+Rua José Antônio Pereira
+--Rua Sem Nome 89--
+--Rua Sem Nome 10--
+
+Esquina de label: 410707389
+Ruas cobertas pela câmera: 
+Rua Doutor José Mourão
+Rua Vigário Amâncio
+
+Esquina de label: 410707387
+Ruas cobertas pela câmera: 
+Rua Resende Costa
+Rua Vigário Amâncio
+
+Esquina de label: 1537807522
+Ruas cobertas pela câmera: 
+Avenida Andrade Reis
+Avenida Tiradentes
+
+Esquina de label: 3617717572
+Ruas cobertas pela câmera: 
+Rua José Pedro de Azevedo
+Rua Monte Carmelo
+
+Esquina de label: 3615765645
+Ruas cobertas pela câmera: 
+Rua Engenheiro Bicalho
+
+Esquina de label: 3617482448
+Ruas cobertas pela câmera: 
+Travessa Andrelândia
+Rua Sebastião Neri
+
+Esquina de label: 3617579803
+Ruas cobertas pela câmera: 
+Rua Amazônia
+
+Esquina de label: 3209381510
+Ruas cobertas pela câmera: 
+Rua Carvalho Resende
+Praça Doutor Antônio Viegas
+
+Esquina de label: 1755729544
+Ruas cobertas pela câmera: 
+Rua Vereador Vicente Cantelmo
+Rua Francisco de Assis Cunha
+
+Esquina de label: 1755744286
+Ruas cobertas pela câmera: 
+Rua Padre Miguel Afonso de Andrade
+Rua Francisco de Assis Cunha
+
+Esquina de label: 3616159978
+Ruas cobertas pela câmera: 
+Travessa Roque Teixeira Neto
+Rua Maestro Batista Lopes
+
+Esquina de label: 1764542545
+Ruas cobertas pela câmera: 
+Rua Capitão Vilarim
+
+Esquina de label: 1764587728
+Ruas cobertas pela câmera: 
+Rua Mestre Francisco Lima Cerqueira
+Rua Agostinho Azevedo
+
+Esquina de label: 1764783024
+Ruas cobertas pela câmera: 
+Rua Maria R. Carvalho
+Rua Geraldo Pinto Lima
+
+Esquina de label: 3213898402
+Ruas cobertas pela câmera: 
+Avenida 8 de Dezembro
+Rua André Belo
+
+Esquina de label: 1755729538
+Ruas cobertas pela câmera: 
+Rua Ribeiro Bastos
+Rua Frei Estevão
+
+Esquina de label: 3209232205
+Ruas cobertas pela câmera: 
+Rua Doutor Ribeiro da Silva
+Rua Maestro Batista Lopes
+
+Esquina de label: 3615841280
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 104--
+
+Esquina de label: 1755770190
+Ruas cobertas pela câmera: 
+Travessa José Batista de Souza
+Praça Professor José Batista de Souza
+
+Esquina de label: 1755770232
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 27--
+--Rua Sem Nome 44--
+Rua Homem de Almeida
+
+Esquina de label: 1764749672
+Ruas cobertas pela câmera: 
+Rua Carvalho Resende
+Rua José Leite de Andrade
+Rua Engenheiro Bicalho
+
+Esquina de label: 8086864084
+Ruas cobertas pela câmera: 
+Rua Hermílio Alves
+Avenida Andrade Reis
+
+Esquina de label: 1764559215
+Ruas cobertas pela câmera: 
+Rua Maestro Telemâco Neves
+Rua Santo Antônio
+
+Esquina de label: 3611329779
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 87--
+Rua Antônio de Abreu
+
+Esquina de label: 1537807516
+Ruas cobertas pela câmera: 
+Ladeira Tenente Vilas Boas
+Praça Duque de Caxias
+Rua Comendador Bastos
+
+Esquina de label: 3610814911
+Ruas cobertas pela câmera: 
+Rua Padre Sacramento
+
+Esquina de label: 410707393
+Ruas cobertas pela câmera: 
+Rua Doutor José Mourão
+Rua Getúlio Vargas
+
+Esquina de label: 3615797630
+Ruas cobertas pela câmera: 
+Rua Aureliano Raposo
+Alameda Carlos Sanzio
+
+Esquina de label: 3611267573
+Ruas cobertas pela câmera: 
+Rua Vereador Henrique de Paula Ferreira
+Rua Antônio Floriano da Silva
+
+Esquina de label: 1763813566
+Ruas cobertas pela câmera: 
+Rua Irmã Maria Juliana
+Rua Operário Uriel de Moura Pereira
+
+Esquina de label: 3209232203
+Ruas cobertas pela câmera: 
+Praça Embaixador Gastão da Cunha
+--Rua Sem Nome 33--
+--Rua Sem Nome 41--
+
+Esquina de label: 1755744230
+Ruas cobertas pela câmera: 
+Rua Ricardo Benfenatti
+Rua Rodrigues de Melo
+
+Esquina de label: 9596046760
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 139--
+
+Esquina de label: 3615841224
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 100--
+Rua Engenheiro Bicalho
+--Rua Sem Nome 99--
+
+Esquina de label: 410707594
+Ruas cobertas pela câmera: 
+Rua Antônio Rocha
+--Rua Sem Nome 5--
+
+Esquina de label: 3206626640
+Ruas cobertas pela câmera: 
+Avenida Eduardo Magalhães
+--Rua Sem Nome 36--
+
+Esquina de label: 8375188699
+Ruas cobertas pela câmera: 
+Rua Elisena Rodrigues da Silva
+Rua Frederico Ozanan
+
+Esquina de label: 410707428
+Ruas cobertas pela câmera: 
+Avenida Presidente Tancredo Neves
+
+Esquina de label: 410707440
+Ruas cobertas pela câmera: 
+Travessa Lopes
+Avenida Presidente Tancredo Neves
+
+Esquina de label: 1537807537
+Ruas cobertas pela câmera: 
+Rua Comendador Bastos
+
+Esquina de label: 1755775778
+Ruas cobertas pela câmera: 
+Rua Rubi
+Rua João Henrique
+
+Esquina de label: 3615841226
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 99--
+
+Esquina de label: 1763815944
+Ruas cobertas pela câmera: 
+Rua Rossini Bacarini
+
+Esquina de label: 2989674479
+Ruas cobertas pela câmera: 
+Rua Doutor Antônio da Silva Rios
+
+Esquina de label: 3616051849
+Ruas cobertas pela câmera: 
+Rua Gentil Palhares
+Rua Ernesto de Oliveira
+
+Esquina de label: 1755770195
+Ruas cobertas pela câmera: 
+Rua Ferroviário Miguel Ferreira
+Rua Maestro Batista Lopes
+
+Esquina de label: 410707409
+Ruas cobertas pela câmera: 
+Praça Barão de Itambé
+Rua Padre Lourival Salvo Rios
+
+Esquina de label: 1752056125
+Ruas cobertas pela câmera: 
+Rua Doutor Basílio de Magalhães
+Praça Doutor Guilherme Milward
+
+Esquina de label: 2800906172
+Ruas cobertas pela câmera: 
+Rua São Caetano
+Rua Delegado José Lima
+Rua Gustavo Alves Braga
+
+Esquina de label: 8375005157
+Ruas cobertas pela câmera: 
+Rua Joaquim Rodrigues Vale
+Rua Edgar Resende Rios
+
+Esquina de label: 3209444355
+Ruas cobertas pela câmera: 
+Praça Barão de Itambé
+Rua Homem de Almeida
+Rua Padre Lourival Salvo Rios
+Rua Beatriz Ambrosio Vieira
+
+Esquina de label: 410707528
+Ruas cobertas pela câmera: 
+Avenida Andrade Reis
+Avenida Tiradentes
+
+Esquina de label: 3209523297
+Ruas cobertas pela câmera: 
+Rua Ferroviário Miguel Ferreira
+Rua Santo Antônio
+
+Esquina de label: 410707411
+Ruas cobertas pela câmera: 
+Rua Padre Lourival Salvo Rios
+Praça Francisco Neves
+
+Esquina de label: 3209516679
+Ruas cobertas pela câmera: 
+Avenida General Osório
+Praça Nossa Senhora de Fátima
+
+Esquina de label: 1764749667
+Ruas cobertas pela câmera: 
+Rua Manoel José
+--Rua Sem Nome 102--
+
+Esquina de label: 3616159977
+Ruas cobertas pela câmera: 
+Rua Afonsina Alvarenga
+Rua Maestro Batista Lopes
+Rua Emília Batista de Carvalho Nascimento
+Rua Inácio Alvarenga
+
+Esquina de label: 3278704579
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 71--
+Rua Professor Geraldo Luiz Oliveira de Resende
+
+Esquina de label: 1764561999
+Ruas cobertas pela câmera: 
+Rua Antônio Cirino Rodrigues
+Rua Antônio Crino
+Rua Ernesto de Oliveira
+
+Esquina de label: 3615217013
+Ruas cobertas pela câmera: 
+Rua João Mourão
+
+Esquina de label: 1764559265
+Ruas cobertas pela câmera: 
+Rua João Jacobe
+--Rua Sem Nome 25--
+Rua Marechal Bittencourt
+
+Esquina de label: 3209516699
+Ruas cobertas pela câmera: 
+Rua Afonsina Alvarenga
+--Rua Sem Nome 23--
+
+Esquina de label: 1755775745
+Ruas cobertas pela câmera: 
+Rua Professor João Batista Viegas
+Rua João da Mata
+
+Esquina de label: 3617579820
+Ruas cobertas pela câmera: 
+Rua Amazônia
+Rua José Martins Garcia
+--Rua Sem Nome 118--
+
+Esquina de label: 3615735446
+Ruas cobertas pela câmera: 
+Rua Rodrigues de Melo
+Travessa Castro
+
+Esquina de label: 1755729430
+Ruas cobertas pela câmera: 
+Rua Carvalhoo Campos
+Rua Coronel Elpídio Gonçalves da Costa
+
+Esquina de label: 3617482445
+Ruas cobertas pela câmera: 
+Rua José Valentim da Silva
+Rua Sebastião Neri
+
+Esquina de label: 3209250775
+Ruas cobertas pela câmera: 
+Rua Manoel Anselmo
+--Rua Sem Nome 42--
+
+Esquina de label: 1763815935
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 23--
+Rua Emília Batista de Carvalho Nascimento
+
+Esquina de label: 3615215492
+Ruas cobertas pela câmera: 
+Rua João Mourão
+Rua Frei Norberto
+
+Esquina de label: 3278704598
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 72--
+--Rua Sem Nome 71--
+--Rua Sem Nome 74--
+
+Esquina de label: 1764538776
+Ruas cobertas pela câmera: 
+Rua Mestre Francisco Lima Cerqueira
+Rua Frei Estevão
+
+Esquina de label: 3611259158
+Ruas cobertas pela câmera: 
+Rua João da Mata
+Rua Antônio Floriano da Silva
+
+Esquina de label: 3615841286
+Ruas cobertas pela câmera: 
+Rua Manoel José
+--Rua Sem Nome 106--
+
+Esquina de label: 1764782993
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 29--
+Rua Nina Barbosa Neves
+
+Esquina de label: 1752056068
+Ruas cobertas pela câmera: 
+Rua Padre Guestor
+Rua São Caetano
+Rua Gustavo Alves Braga
+
+Esquina de label: 3208802823
+Ruas cobertas pela câmera: 
+Rua Doutor Garcia de Lima
+Rua Prefeito Nascimento Teixeira
+
+Esquina de label: 1752079840
+Ruas cobertas pela câmera: 
+Rua Tenente Mário César Lopes
+Rua Expedicionário Geraldo Soares
+Praça Bonfim
+
+Esquina de label: 1764538583
+Ruas cobertas pela câmera: 
+Praça Doutor Guilherme Milward
+Rua Doutor José Bastos
+
+Esquina de label: 2989674500
+Ruas cobertas pela câmera: 
+Avenida 8 de Dezembro
+Rua André Belo
+
+Esquina de label: 1752056127
+Ruas cobertas pela câmera: 
+Rua Sílvio Magalhães
+Rua Doutor Basílio de Magalhães
+
+Esquina de label: 3615841251
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 101--
+--Rua Sem Nome 102--
+--Rua Sem Nome 104--
+
+Esquina de label: 1764572461
+Ruas cobertas pela câmera: 
+Rua Marcondes Neves
+Rua do Tanque
+
+Esquina de label: 3209429974
+Ruas cobertas pela câmera: 
+Rua Padre Lourival Salvo Rios
+
+Esquina de label: 3278704601
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 75--
+--Rua Sem Nome 74--
+
+Esquina de label: 3208905392
+Ruas cobertas pela câmera: 
+Rua Expedicionário Geraldo Soares
+Rua Geraldo Pinto Lima
+
+Esquina de label: 410707537
+Ruas cobertas pela câmera: 
+Rua Padre Sacramento
+Avenida 8 de Dezembro
+Rua Comendador Costa
+
+Esquina de label: 7861918939
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 129--
+Rua São João Del Rei
+--Rua Sem Nome 130--
+
+Esquina de label: 1763813622
+Ruas cobertas pela câmera: 
+Rua Operário Uriel de Moura Pereira
+Rua Evandro Ávila
+
+Esquina de label: 3616159981
+Ruas cobertas pela câmera: 
+Rua Ferroviário Miguel Ferreira
+Rua Fernando Caldas
+
+Esquina de label: 1537812512
+Ruas cobertas pela câmera: 
+Avenida Nossa Senhora do Pilar
+Rua General João Faria
+
+Esquina de label: 1764538493
+Ruas cobertas pela câmera: 
+Rua Sargento Wilson Ramos
+Rua Prefeito Nascimento Teixeira
+
+Esquina de label: 1752079818
+Ruas cobertas pela câmera: 
+Rua Geraldo C. Almeida
+
+Esquina de label: 1764588776
+Ruas cobertas pela câmera: 
+Rua Jeudiel Torga
+Avenida General Osório
+
+Esquina de label: 1763815947
+Ruas cobertas pela câmera: 
+Rua Rossini Bacarini
+Avenida General Osório
+--Rua Sem Nome 41--
+
+Esquina de label: 3605393663
+Ruas cobertas pela câmera: 
+Rua Hermílio Alves
+Rua Antônio Rocha
+
+Esquina de label: 410707589
+Ruas cobertas pela câmera: 
+Avenida Presidente Tancredo Neves
+Rua José Leite de Andrade
+--Rua Sem Nome 4--
+
+Esquina de label: 3278704563
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 46--
+
+Esquina de label: 410707385
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 110--
+Rua Resende Costa
+
+Esquina de label: 3220630382
+Ruas cobertas pela câmera: 
+Rua Itabirito
+Rua Antônio de Moura Carvalho
+Rua Francisco Reinaldo
+
+Esquina de label: 3617589329
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 122--
+Rua Ricardo Geraldo dos Santos
+
+Esquina de label: 1752056118
+Ruas cobertas pela câmera: 
+Rua Doutor Basílio de Magalhães
+Avenida Nossa Senhora do Pilar
+
+Esquina de label: 3617482447
+Ruas cobertas pela câmera: 
+Travessa Andrelândia
+Rua Sebastião Neri
+
+Esquina de label: 410707519
+Ruas cobertas pela câmera: 
+Rua Comendador Costa
+Rua Quintino Bocaiuva
+
+Esquina de label: 1764587726
+Ruas cobertas pela câmera: 
+Rua Professora Gilda Fonseca Teixeira
+Rua Frei Estevão
+
+Esquina de label: 410707477
+Ruas cobertas pela câmera: 
+Rua Alfredo Luiz Ratton
+Avenida Tiradentes
+
+Esquina de label: 1527527554
+Ruas cobertas pela câmera: 
+Rua Hermílio Alves
+Rua Aureliano Mourão
+
+Esquina de label: 1764749663
+Ruas cobertas pela câmera: 
+Rua Aureliano Raposo
+--Rua Sem Nome 43--
+
+Esquina de label: 3615730043
+Ruas cobertas pela câmera: 
+Rua Professora Eugênia Vieira de Souza
+Rua Padre Faustino
+
+Esquina de label: 1537807535
+Ruas cobertas pela câmera: 
+Rua Barão do Rio Branco
+Rua João Jacobe
+
+Esquina de label: 3209250776
+Ruas cobertas pela câmera: 
+Rua Manoel Anselmo
+Rua Maestro João Pequeno
+
+Esquina de label: 3615217009
+Ruas cobertas pela câmera: 
+Rua João Magalhães
+
+Esquina de label: 1764562006
+Ruas cobertas pela câmera: 
+Rua Antônio Cirino Rodrigues
+Rua Altamiro Flor
+Rua Ricardo Geraldo dos Santos
+
+Esquina de label: 410707439
+Ruas cobertas pela câmera: 
+Travessa Lopes
+Rua João Jacobe
+
+Esquina de label: 2800906163
+Ruas cobertas pela câmera: 
+Rua Domingos Camarano
+Rua Pedro Nolasco do Nascimento
+Rua Padre Miguel Afonso de Andrade
+
+Esquina de label: 1763815927
+Ruas cobertas pela câmera: 
+Rua Francisco de Assis Cunha
+Rua Armênio Reis
+Rua Afonso Marcelino da Silveira
+
+Esquina de label: 3615992823
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 138--
+Rua Gomes Pedroso
+
+Esquina de label: 3615797649
+Ruas cobertas pela câmera: 
+Rua Manoel José
+
+Esquina de label: 3214297388
+Ruas cobertas pela câmera: 
+Praça Raul Soares
+
+Esquina de label: 1755729350
+Ruas cobertas pela câmera: 
+Rua Felipe Marchetti
+Rua Dona Ilaurina Laudares Silva
+
+Esquina de label: 3617527028
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 114--
+Rua Beatriz A. Vieira
+--Rua Sem Nome 115--
+
+Esquina de label: 1764559238
+Ruas cobertas pela câmera: 
+Rua Ricardo Geraldo dos Santos
+
+Esquina de label: 1764588783
+Ruas cobertas pela câmera: 
+Rua Padre Rocha
+Rua Jornalista Roberto Silva
+
+Esquina de label: 1752079715
+Ruas cobertas pela câmera: 
+Rua Expedicionário Geraldo Soares
+Rua Geraldo Pinto Lima
+
+Esquina de label: 7861918940
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 131--
+--Rua Sem Nome 132--
+--Rua Sem Nome 130--
+
+Esquina de label: 1755128035
+Ruas cobertas pela câmera: 
+Rua José Valentim da Silva
+Rua Altamiro Flor
+
+Esquina de label: 3611186892
+Ruas cobertas pela câmera: 
+Rua Luís Bacarini
+Rua Doutor Balbino da Cunha
+Rua Ministro Gabriel Passos
+
+Esquina de label: 1755729528
+Ruas cobertas pela câmera: 
+Rua Ernestina Braga Martins
+Rua Ana de Oliveira Silva
+
+Esquina de label: 3617579677
+Ruas cobertas pela câmera: 
+Rua Bento Portela
+Rua João Henrique
+
+Esquina de label: 1764783011
+Ruas cobertas pela câmera: 
+Rua Geraldo Pinto Lima
+
+Esquina de label: 3209381524
+Ruas cobertas pela câmera: 
+Travessa Osvaldo da Fonseca Torga
+
+Esquina de label: 8375005163
+Ruas cobertas pela câmera: 
+Rua Doutor Ribeiro da Silva
+Praça Embaixador Gastão da Cunha
+
+Esquina de label: 3612842118
+Ruas cobertas pela câmera: 
+Rua João Alfenes da Silva
+
+Esquina de label: 410707736
+Ruas cobertas pela câmera: 
+Rua Paulo Freitas
+Travessa Augusto Gode
+
+Esquina de label: 410707578
+Ruas cobertas pela câmera: 
+Avenida Presidente Tancredo Neves
+Travessa Lopes
+--Rua Sem Nome 3--
+
+Esquina de label: 410707473
+Ruas cobertas pela câmera: 
+Rua Hermílio Alves
+Rua Alfredo Luiz Ratton
+
+Esquina de label: 3615730086
+Ruas cobertas pela câmera: 
+Rua Professora Eugênia Vieira de Souza
+Travessa Padre Faustino
+
+Esquina de label: 1755729454
+Ruas cobertas pela câmera: 
+Rua Ernestina Braga Martins
+Rua Geraldo Teodoro de Resende
+
+Esquina de label: 2800906130
+Ruas cobertas pela câmera: 
+Rua Carvalho Resende
+Rua Padre Faustino
+
+Esquina de label: 3611247053
+Ruas cobertas pela câmera: 
+Rua Operário Uriel de Moura Pereira
+
+Esquina de label: 3617527030
+Ruas cobertas pela câmera: 
+Rua Altamiro Flor
+--Rua Sem Nome 115--
+
+Esquina de label: 1764538516
+Ruas cobertas pela câmera: 
+Rua Mestre Francisco Lima Cerqueira
+Rua João da Mata
+
+Esquina de label: 3131570298
+Ruas cobertas pela câmera: 
+Rua Bento Portela
+Rua do Cruzeiro
+
+Esquina de label: 3612859442
+Ruas cobertas pela câmera: 
+Rua Geraldo Teodoro de Resende
+Rua Edgar Resende Rios
+
+Esquina de label: 3220366799
+Ruas cobertas pela câmera: 
+Rua Padre Rocha
+--Rua Sem Nome 22--
+
+Esquina de label: 1764749664
+Ruas cobertas pela câmera: 
+Rua João Mourão
+Rua Manoel José
+
+Esquina de label: 3209523298
+Ruas cobertas pela câmera: 
+Rua Modestino Rabelo
+Rua Antônio Leôncio
+
+Esquina de label: 3618060520
+Ruas cobertas pela câmera: 
+Rua Antônio de Moura Carvalho
+
+Esquina de label: 3278704578
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 94--
+--Rua Sem Nome 51--
+--Rua Sem Nome 57--
+
+Esquina de label: 3135107124
+Ruas cobertas pela câmera: 
+Rua Uruguai
+Rua Luiz Carlos Nascimento
+
+Esquina de label: 1752072182
+Ruas cobertas pela câmera: 
+Rua Luiz Cardoso
+Rua Carvalho Resende
+--Rua Sem Nome 96--
+
+Esquina de label: 3617579824
+Ruas cobertas pela câmera: 
+Rua José Martins Garcia
+Rua Antônio de Assis
+
+Esquina de label: 1764782979
+Ruas cobertas pela câmera: 
+Rua Nina Barbosa Neves
+Rua Carmélio Rubens
+
+Esquina de label: 410707573
+Ruas cobertas pela câmera: 
+Avenida Presidente Tancredo Neves
+
+Esquina de label: 1755729254
+Ruas cobertas pela câmera: 
+Avenida 8 de Dezembro
+Rua Dona Ilaurina Laudares Silva
+
+Esquina de label: 3617482472
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 114--
+Rua Sebastião Neri
+Rua Beatriz Ambrosio Vieira
+
+Esquina de label: 3135107122
+Ruas cobertas pela câmera: 
+Rua Joaquim Rodrigues Vale
+Rua Ana de Oliveira Silva
+
+Esquina de label: 1764783003
+Ruas cobertas pela câmera: 
+Rua Geraldo C. Almeida
+
+Esquina de label: 3611282885
+Ruas cobertas pela câmera: 
+Rua Amélia Saturnina de Freitas
+--Rua Sem Nome 83--
+
+Esquina de label: 8087889393
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 135--
+Praça Bonfim
+
+Esquina de label: 3611297272
+Ruas cobertas pela câmera: 
+Rua Escrivão Farense Silva
+Rua José Santana da Silva
+
+Esquina de label: 3611104725
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 129--
+--Rua Sem Nome 81--
+--Rua Sem Nome 80--
+
+Esquina de label: 1755775730
+Ruas cobertas pela câmera: 
+Rua Operário André Gonçalves
+Rua Escrivão Farense Silva
+
+Esquina de label: 3605393665
+Ruas cobertas pela câmera: 
+Rua Hermílio Alves
+Ponte da Cadeia
+Rua Ministro Gabriel Passos
+
+Esquina de label: 1752079849
+Ruas cobertas pela câmera: 
+Rua Tenente Mário César Lopes
+--Rua Sem Nome 85--
+
+Esquina de label: 1755775798
+Ruas cobertas pela câmera: 
+Rua Professor João Batista Viegas
+Rua Frei Estevão
+
+Esquina de label: 410707463
+Ruas cobertas pela câmera: 
+Avenida Nossa Senhora do Pilar
+Rua General João Faria
+
+Esquina de label: 1752056037
+Ruas cobertas pela câmera: 
+Rua Frederico Ozanan
+Praça Doutor Fausto Mourão
+
+Esquina de label: 3209188879
+Ruas cobertas pela câmera: 
+Rua José Gontijo de Lima
+Praça Francisco Nestor dos Santos
+
+Esquina de label: 3610788762
+Ruas cobertas pela câmera: 
+Praça Raul Soares
+Rua Paulo Freitas
+Rua Professor Jorge Zarur
+
+Esquina de label: 410707415
+Ruas cobertas pela câmera: 
+Rua Monsenhor Gustavo
+Praça Professor José Batista de Souza
+Rua Padre Lourival Salvo Rios
+
+Esquina de label: 1755775714
+Ruas cobertas pela câmera: 
+Rua José Martins Garcia
+Rua João Rosa
+
+Esquina de label: 410707378
+Ruas cobertas pela câmera: 
+Rua Santa Teresa
+Rua José Veigas
+
+Esquina de label: 3209516687
+Ruas cobertas pela câmera: 
+Rua Tenente Geraldo Silva
+Avenida General Osório
+
+Esquina de label: 3611376159
+Ruas cobertas pela câmera: 
+Rua Geraldo C. Almeida
+
+Esquina de label: 3611247051
+Ruas cobertas pela câmera: 
+Rua Professora Gilda Fonseca Teixeira
+Rua Agostinho Azevedo
+
+Esquina de label: 3616180769
+Ruas cobertas pela câmera: 
+Rua José Valentim da Silva
+Rua Ipraí
+
+Esquina de label: 3209241996
+Ruas cobertas pela câmera: 
+Rua Maestro João Pequeno
+Rua Getúlio Vargas
+
+Esquina de label: 1752079726
+Ruas cobertas pela câmera: 
+Rua Geraldo C. Almeida
+Rua I
+
+Esquina de label: 3611226740
+Ruas cobertas pela câmera: 
+Rua Doutor Garcia de Lima
+Rua Doutor Basílio de Magalhães
+Avenida Nossa Senhora do Pilar
+
+Esquina de label: 2800906132
+Ruas cobertas pela câmera: 
+Rua Gomes Pedroso
+Rua Frei Norberto
+Rua Getúlio Vargas
+
+Esquina de label: 3611247068
+Ruas cobertas pela câmera: 
+Rua Antônio Alves de Aquino
+Rua Odete Resende Mattar
+
+Esquina de label: 1755729310
+Ruas cobertas pela câmera: 
+Rua Ana de Oliveira Silva
+Rua Alexandro Agostini
+
+Esquina de label: 1752056058
+Ruas cobertas pela câmera: 
+Rua Paulo Bastone
+--Rua Sem Nome 127--
+Rua Delegado José Lima
+Rua Ubá
+
+Esquina de label: 410707405
+Ruas cobertas pela câmera: 
+Travessa Maestro Gustavo de Carvalho
+Rua Padre Lourival Salvo Rios
+Praça Francisco Neves
+
+Esquina de label: 2800906152
+Ruas cobertas pela câmera: 
+Ponte do Rosário
+Rua Manoel Anselmo
+--Rua Sem Nome 33--
+Avenida General Osório
+
+Esquina de label: 1764559189
+Ruas cobertas pela câmera: 
+Rua Altamiro Flor
+Rua Ricardo Geraldo dos Santos
+
+Esquina de label: 1764785004
+Ruas cobertas pela câmera: 
+Rua Padre Sacramento
+Rua Alexandre Bacil
+
+Esquina de label: 3612842125
+Ruas cobertas pela câmera: 
+Rua Armênio Reis
+
+Esquina de label: 1537812502
+Ruas cobertas pela câmera: 
+Rua Comendador Bastos
+Avenida Nossa Senhora do Pilar
+
+Esquina de label: 3611329775
+Ruas cobertas pela câmera: 
+Rua Vereador Henrique de Paula Ferreira
+
+Esquina de label: 10759864623
+Ruas cobertas pela câmera: 
+Rua Afonsina Alvarenga
+--Rua Sem Nome 141--
+
+Esquina de label: 3616159980
+Ruas cobertas pela câmera: 
+Travessa Roque Teixeira Neto
+Rua Santo Antônio
+
+Esquina de label: 8086930238
+Ruas cobertas pela câmera: 
+Avenida 8 de Dezembro
+--Rua Sem Nome 134--
+
+Esquina de label: 1764542544
+Ruas cobertas pela câmera: 
+Rua Coronel Tamarindo
+Rua Fiscal Antônio Damaso
+
+Esquina de label: 3617578690
+Ruas cobertas pela câmera: 
+Travessa Toledo
+--Rua Sem Nome 117--
+
+Esquina de label: 3611297288
+Ruas cobertas pela câmera: 
+Rua José Santana da Silva
+Praça Bonfim
+--Rua Sem Nome 85--
+
+Esquina de label: 3611214304
+Ruas cobertas pela câmera: 
+Rua Vila Reis
+
+Esquina de label: 3611376162
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 93--
+Rua Geraldo C. Almeida
+
+Esquina de label: 1755775807
+Ruas cobertas pela câmera: 
+Rua Amintas Novais
+Rua Frei Estevão
+
+Esquina de label: 3617544916
+Ruas cobertas pela câmera: 
+Travessa Toledo
+Rua Toledo
+
+Esquina de label: 1537812503
+Ruas cobertas pela câmera: 
+Avenida General Osório
+Travessa General Osório
+
+Esquina de label: 3617579873
+Ruas cobertas pela câmera: 
+Rua do Ouro
+Travessa do Ouro
+
+Esquina de label: 3278704574
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 59--
+Rua Professor Geraldo Luiz Oliveira de Resende
+
+Esquina de label: 3611024248
+Ruas cobertas pela câmera: 
+Rua Carvalhoo Campos
+
+Esquina de label: 410707433
+Ruas cobertas pela câmera: 
+Rua Manoel Anselmo
+Rua Marechal Deodoro
+
+Esquina de label: 8087913549
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 136--
+Avenida Andrade Reis
+
+Esquina de label: 3616051833
+Ruas cobertas pela câmera: 
+Rua Gentil Palhares
+Rua Resende Costa
+Rua José Veigas
+
+Esquina de label: 3610814690
+Ruas cobertas pela câmera: 
+Rua Padre Sacramento
+Rua Doutor Antônio da Silva Rios
+
+Esquina de label: 3206672874
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 40--
+--Rua Sem Nome 38--
+Rua Padre José Maria Xavier
+
+Esquina de label: 3612866744
+Ruas cobertas pela câmera: 
+Rua Elias Isaac
+Rua Francisco Moreira da Rocha
+
+Esquina de label: 3208839959
+Ruas cobertas pela câmera: 
+Rua Vereadora Alba Lombardi
+Avenida Tiradentes
+
+Esquina de label: 3278704594
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 66--
+--Rua Sem Nome 68--
+--Rua Sem Nome 67--
+
+Esquina de label: 8383884399
+Ruas cobertas pela câmera: 
+Rua Comendador Costa
+
+Esquina de label: 410707323
+Ruas cobertas pela câmera: 
+Rua Antônio Rocha
+
+Esquina de label: 3616180787
+Ruas cobertas pela câmera: 
+Rua Laudelino do Nascimento
+--Rua Sem Nome 139--
+
+Esquina de label: 3616051850
+Ruas cobertas pela câmera: 
+Rua Antônio Cirino Rodrigues
+Rua Gentil Palhares
+
+Esquina de label: 9605894064
+Ruas cobertas pela câmera: 
+Rua José Valentim da Silva
+Rua dos Minerais
+
+Esquina de label: 410707403
+Ruas cobertas pela câmera: 
+Rua Antônio Cirino Rodrigues
+Praça Barão de Itambé
+Rua Padre Lourival Salvo Rios
+
+Esquina de label: 3611104721
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 131--
+
+Esquina de label: 9688074869
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 140--
+
+Esquina de label: 3278704582
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 61--
+--Rua Sem Nome 62--
+--Rua Sem Nome 55--
+
+Esquina de label: 410707424
+Ruas cobertas pela câmera: 
+Praça Doutor Antônio Viegas
+Rua Aureliano Raposo
+Rua do Carmo
+
+Esquina de label: 1755775743
+Ruas cobertas pela câmera: 
+Rua Amélia Saturnina de Freitas
+Rua Antônio de Abreu
+
+Esquina de label: 3617579884
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 120--
+Travessa do Ouro
+
+Esquina de label: 3616180772
+Ruas cobertas pela câmera: 
+Rua Itabirito
+Rua Antônio de Moura Carvalho
+Rua do Ouro
+
+Esquina de label: 1755729467
+Ruas cobertas pela câmera: 
+Rua Geraldo Canário
+Rua Elias Isaac
+Rua Edgar Resende Rios
+
+Esquina de label: 3612786098
+Ruas cobertas pela câmera: 
+Rua Delegado José Lima
+Rua Ubá
+
+Esquina de label: 1537812511
+Ruas cobertas pela câmera: 
+Rua Aureliano Mourão
+Avenida Tiradentes
+
+Esquina de label: 1764749666
+Ruas cobertas pela câmera: 
+Rua Manoel José
+Rua Antônio Evangelista Teixeira
+
+Esquina de label: 3611282879
+Ruas cobertas pela câmera: 
+Rua Amélia Saturnina de Freitas
+Rua Operário André Gonçalves
+
+Esquina de label: 1527527589
+Ruas cobertas pela câmera: 
+Rua Doutor Antônio da Silva Rios
+Rua Carvalhoo Campos
+Rua Coronel Elpídio Gonçalves da Costa
+
+Esquina de label: 1537812526
+Ruas cobertas pela câmera: 
+Rua Alfredo Luiz Ratton
+Rua Doutor Balbino da Cunha
+
+Esquina de label: 1755729495
+Ruas cobertas pela câmera: 
+Avenida 8 de Dezembro
+Rua Carvalhoo Campos
+
+Esquina de label: 1764542511
+Ruas cobertas pela câmera: 
+Rua Fiscal Casimiro Rios
+Rua Fiscal Antônio Damaso
+
+Esquina de label: 3611226739
+Ruas cobertas pela câmera: 
+Rua Sargento Wilson Ramos
+Avenida Nossa Senhora do Pilar
+
+Esquina de label: 1527527571
+Ruas cobertas pela câmera: 
+Praça Frei Orlando
+Rua Doutor Balbino da Cunha
+Rua Aureliano Mourão
+Rua Doutor José Bastos
+
+Esquina de label: 3278704568
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 67--
+Rua Professor Geraldo Luiz Oliveira de Resende
+--Rua Sem Nome 46--
+
+Esquina de label: 1763815946
+Ruas cobertas pela câmera: 
+Rua Rossini Bacarini
+--Rua Sem Nome 24--
+
+Esquina de label: 1755729280
+Ruas cobertas pela câmera: 
+Praça Doutor Fausto Mourão
+
+Esquina de label: 3278704585
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 66--
+--Rua Sem Nome 73--
+--Rua Sem Nome 57--
+
+Esquina de label: 1764538403
+Ruas cobertas pela câmera: 
+Rua Mestre Francisco Lima Cerqueira
+Rua Antônio Francisco Lisboa
+
+Esquina de label: 8086927059
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 140--
+Rua Doutor Basílio de Magalhães
+Avenida Nossa Senhora do Pilar
+
+Esquina de label: 3615889048
+Ruas cobertas pela câmera: 
+Rua Afonsina Alvarenga
+Rua Santo Antônio
+
+Esquina de label: 1537812483
+Ruas cobertas pela câmera: 
+Avenida General Osório
+--Rua Sem Nome 24--
+
+Esquina de label: 3615730048
+Ruas cobertas pela câmera: 
+Rua Severo Carazza
+Travessa Padre Faustino
+
+Esquina de label: 3611297274
+Ruas cobertas pela câmera: 
+Rua Escrivão Farense Silva
+Praça Bonfim
+Rua João Manoel Teixeira
+
+Esquina de label: 3209176672
+Ruas cobertas pela câmera: 
+Rua Rossini Bacarini
+Travessa General Osório
+
+Esquina de label: 410707358
+Ruas cobertas pela câmera: 
+Rua Manoel Anselmo
+Avenida Presidente Tancredo Neves
+Rua Artur Bernardes
+Ponte da Cadeia
+
+Esquina de label: 1537807544
+Ruas cobertas pela câmera: 
+Rua Hermílio Alves
+Avenida Andrade Reis
+
+Esquina de label: 7839913786
+Ruas cobertas pela câmera: 
+Rua Uruguai
+Rua Geraldo Teodoro de Resende
+
+Esquina de label: 3612859441
+Ruas cobertas pela câmera: 
+Rua Joaquim Rodrigues Vale
+Rua Luiz Carlos Nascimento
+
+Esquina de label: 3612720721
+Ruas cobertas pela câmera: 
+Rua Padre Miguel Afonso de Andrade
+Rua Antônio Onofre da Rocha
+Rua Domingos Camarano
+
+Esquina de label: 3209381521
+Ruas cobertas pela câmera: 
+Rua Antônio Evangelista Teixeira
+
+Esquina de label: 3209429967
+Ruas cobertas pela câmera: 
+Rua do Cotovelo
+Rua Doutor José Mourão
+Praça Barão de Itambé
+
+Esquina de label: 1752056149
+Ruas cobertas pela câmera: 
+Rua Delegado José Lima
+Rua Gustavo Alves Braga
+
+Esquina de label: 3213890565
+Ruas cobertas pela câmera: 
+Avenida 8 de Dezembro
+Rua Carvalhoo Campos
+
+Esquina de label: 1432867404
+Ruas cobertas pela câmera: 
+Rua Hermílio Alves
+Ponte do Rosário
+Rua Padre José Maria Xavier
+Avenida Eduardo Magalhães
+
+Esquina de label: 1764562007
+Ruas cobertas pela câmera: 
+Rua Gonçalves Coelho
+Rua Doutor José Bastos
+
+Esquina de label: 1752072366
+Ruas cobertas pela câmera: 
+Rua Capitão Vilarim
+Rua Coronel Tamarindo
+
+Esquina de label: 3209381516
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 43--
+Rua Manoel José
+
+Esquina de label: 3611376178
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 92--
+Rua Antônio M. C. Filho
+
+Esquina de label: 1432867408
+Ruas cobertas pela câmera: 
+Avenida Eduardo Magalhães
+Rua Domingos Camarano
+Rua Padre Rocha
+
+Esquina de label: 2800906160
+Ruas cobertas pela câmera: 
+Rua Modestino Ribeiro
+Rua Padre Rocha
+Praça Doutor Fausto Mourão
+
+Esquina de label: 3611376141
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 9--
+--Rua Sem Nome 89--
+Rua Nina Barbosa Neves
+
+Esquina de label: 410707413
+Ruas cobertas pela câmera: 
+Rua Monsenhor Gustavo
+Rua Getúlio Vargas
+
+Esquina de label: 1764572496
+Ruas cobertas pela câmera: 
+Rua Frei Norberto
+Travessa Osvaldo da Fonseca Torga
+
+Esquina de label: 8374844538
+Ruas cobertas pela câmera: 
+Rua Irmã Eugênia Luz Pinto
+Rua Ribeiro Bastos
+
+Esquina de label: 1764588786
+Ruas cobertas pela câmera: 
+Rua Vereador Vicente Cantelmo
+Rua Comandante José Flores
+
+Esquina de label: 2053163001
+Ruas cobertas pela câmera: 
+Rua Hermílio Alves
+Rua Professor Roberto da Silva
+
+Esquina de label: 3131570295
+Ruas cobertas pela câmera: 
+Rua Rubi
+
+Esquina de label: 8377467357
+Ruas cobertas pela câmera: 
+Rua Vereador Vicente Cantelmo
+Rua Armênio Reis
+
+Esquina de label: 1763813661
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 83--
+Rua Operário André Gonçalves
+
+Esquina de label: 8375188700
+Ruas cobertas pela câmera: 
+Rua Elisena Rodrigues da Silva
+
+Esquina de label: 1764588778
+Ruas cobertas pela câmera: 
+Rua Comandante José Flores
+Rua Afonso Marcelino da Silveira
+
+Esquina de label: 1755775718
+Ruas cobertas pela câmera: 
+Rua João Rosa
+Rua João Henrique
+
+Esquina de label: 3214297386
+Ruas cobertas pela câmera: 
+Praça Raul Soares
+Rua Professor Roberto da Silva
+Rua Aldo Zerlotine
+
+Esquina de label: 1755775768
+Ruas cobertas pela câmera: 
+Rua Antônio de Moura Carvalho
+Rua Sargento Agostinho São Rios
+
+Esquina de label: 3616130862
+Ruas cobertas pela câmera: 
+Rua Antônio Crino
+
+Esquina de label: 1755729539
+Ruas cobertas pela câmera: 
+Rua Antônio Onofre da Rocha
+Rua Rubens Santiago dos Santos
+
+Esquina de label: 1755775715
+Ruas cobertas pela câmera: 
+Rua Doutor Carlos Velasco
+Rua Irmã Maria Juliana
+
+Esquina de label: 3611329781
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 88--
+
+Esquina de label: 410707445
+Ruas cobertas pela câmera: 
+Rua Maria Teresa
+Avenida Tiradentes
+
+Esquina de label: 3616051848
+Ruas cobertas pela câmera: 
+Travessa João Palmiro Fazzion
+Rua Gentil Palhares
+
+Esquina de label: 3611214297
+Ruas cobertas pela câmera: 
+Rua Doutor Basílio de Magalhães
+Rua Riachuelo
+
+Esquina de label: 1755775795
+Ruas cobertas pela câmera: 
+Rua Amintas Novais
+Rua João da Mata
+
+Esquina de label: 410707448
+Ruas cobertas pela câmera: 
+Rua Doutor Ribeiro da Silva
+Rua Santo Antônio
+
+Esquina de label: 3209432008
+Ruas cobertas pela câmera: 
+Praça Barão de Itambé
+Travessa Graça
+Rua Doutor José Mourão
+
+Esquina de label: 3278704591
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 69--
+--Rua Sem Nome 75--
+--Rua Sem Nome 62--
+
+Esquina de label: 3612866745
+Ruas cobertas pela câmera: 
+Rua Francisco Moreira da Rocha
+
+Esquina de label: 1755729286
+Ruas cobertas pela câmera: 
+Rua Ernestina Braga Martins
+Rua Luiz Carlos Nascimento
+
+Esquina de label: 3615992821
+Ruas cobertas pela câmera: 
+Rua Gomes Pedroso
+--Rua Sem Nome 108--
+
+Esquina de label: 1755729428
+Ruas cobertas pela câmera: 
+Rua Geraldo Canário
+
+Esquina de label: 1764749670
+Ruas cobertas pela câmera: 
+Rua Aureliano Raposo
+Rua Manoel José
+
+Esquina de label: 1755775742
+Ruas cobertas pela câmera: 
+Rua Doutor Carlos Velasco
+Rua Evandro Ávila
+
+Esquina de label: 1763813645
+Ruas cobertas pela câmera: 
+Rua João Ribeiro da Silva
+Rua Antônio Floriano da Silva
+
+Esquina de label: 3612842120
+Ruas cobertas pela câmera: 
+Rua Antônio José Gomes Carneiro
+
+Esquina de label: 1752079819
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 10--
+Rua Geraldo Pinto Lima
+
+Esquina de label: 3208839960
+Ruas cobertas pela câmera: 
+Rua Vereadora Alba Lombardi
+
+Esquina de label: 8384127757
+Ruas cobertas pela câmera: 
+Rua Professora Eugênia Vieira de Souza
+
+Esquina de label: 3213890568
+Ruas cobertas pela câmera: 
+Avenida 8 de Dezembro
+Rua Dona Ilaurina Laudares Silva
+
+Esquina de label: 1537812473
+Ruas cobertas pela câmera: 
+Rua Comendador Bastos
+Avenida Nossa Senhora do Pilar
+
+Esquina de label: 3208883132
+Ruas cobertas pela câmera: 
+Rua Rubens Santiago dos Santos
+
+Esquina de label: 1755775822
+Ruas cobertas pela câmera: 
+Rua João Rosa
+Rua Antônio de Assis
+
+Esquina de label: 1763813660
+Ruas cobertas pela câmera: 
+Ladeira Tenente Vilas Boas
+--Rua Sem Nome 81--
+
+Esquina de label: 3209241995
+Ruas cobertas pela câmera: 
+Rua Marechal Deodoro
+Rua Maestro João Pequeno
+
+Esquina de label: 3617482455
+Ruas cobertas pela câmera: 
+Rua Sebastião Neri
+Travessa Sebastião Neri
+
+Esquina de label: 1764559258
+Ruas cobertas pela câmera: 
+Travessa Fernando Caldas
+Rua Fernando Caldas
+Rua José do Patrocínio
+
+Esquina de label: 1755770227
+Ruas cobertas pela câmera: 
+Praça Professor José Batista de Souza
+
+Esquina de label: 1752079770
+Ruas cobertas pela câmera: 
+Rua João Mourão
+Rua João Magalhães
+
+Esquina de label: 1764538751
+Ruas cobertas pela câmera: 
+Rua Professor Pedro Raposo
+Rua Doutor Vicente Albergaria
+
+Esquina de label: 1761724864
+Ruas cobertas pela câmera: 
+Praça Frei Orlando
+Rua Ribeiro Bastos
+Rua Padre José Maria Xavier
+
+Esquina de label: 2800906129
+Ruas cobertas pela câmera: 
+Rua Coronel Tamarindo
+Rua Professor Jorge Zarur
+
+Esquina de label: 1764588777
+Ruas cobertas pela câmera: 
+Rua Vereador Vicente Cantelmo
+Rua José Antônio da Silva
+
+Esquina de label: 1763813641
+Ruas cobertas pela câmera: 
+Rua Odete Resende Mattar
+Rua Rubens Santiago dos Santos
+
+Esquina de label: 3209188888
+Ruas cobertas pela câmera: 
+Rua Carvalho Resende
+Praça Francisco Nestor dos Santos
+
+Esquina de label: 1755128050
+Ruas cobertas pela câmera: 
+Rua Santo Elias
+Rua Getúlio Vargas
+
+Esquina de label: 3617684051
+Ruas cobertas pela câmera: 
+Rua Bento Portela
+Rua José Valentim da Silva
+
+Esquina de label: 10759864622
+Ruas cobertas pela câmera: 
+Avenida General Osório
+--Rua Sem Nome 141--
+
+Esquina de label: 3131570271
+Ruas cobertas pela câmera: 
+Rua João Rosa
+Rua João Magalhães
+
+Esquina de label: 8110699026
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 137--
+Rua Comendador Bastos
+
+Esquina de label: 410707391
+Ruas cobertas pela câmera: 
+Travessa Maestro Gustavo de Carvalho
+Rua Doutor José Mourão
+
+Esquina de label: 3611398869
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 93--
+Rua I
+
+Esquina de label: 1764588781
+Ruas cobertas pela câmera: 
+Rua Geraldo Canário
+Rua Jornalista Roberto Silva
+
+Esquina de label: 3613405884
+Ruas cobertas pela câmera: 
+Rua Coronel Tamarindo
+Rua Fiscal Casimiro Rios
+
+Esquina de label: 3611214293
+Ruas cobertas pela câmera: 
+Rua Prefeito Nascimento Teixeira
+Rua General João Faria
+
+Esquina de label: 1755729412
+Ruas cobertas pela câmera: 
+Rua Modestino Rabelo
+Rua Santo Antônio
+
+Esquina de label: 1755775736
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 88--
+Rua Antônio Floriano da Silva
+
+Esquina de label: 3612842122
+Ruas cobertas pela câmera: 
+Rua Vereador Vicente Cantelmo
+Rua Frederico Ozanan
+
+Esquina de label: 3617527026
+Ruas cobertas pela câmera: 
+Rua Beatriz A. Vieira
+Rua Altamiro Flor
+
+Esquina de label: 410707326
+Ruas cobertas pela câmera: 
+Avenida Eduardo Magalhães
+Rua José Leite de Andrade
+
+Esquina de label: 3209188876
+Ruas cobertas pela câmera: 
+Rua José Gontijo de Lima
+
+Esquina de label: 3213880606
+Ruas cobertas pela câmera: 
+Rua José Carlos das Neves
+Avenida 8 de Dezembro
+
+Esquina de label: 3131570287
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 34--
+Rua do Cruzeiro
+
+Esquina de label: 410707430
+Ruas cobertas pela câmera: 
+Rua Sebastião Sette
+Rua Marechal Deodoro
+
+Esquina de label: 1752079860
+Ruas cobertas pela câmera: 
+Rua Geraldo C. Almeida
+Rua Nina Barbosa Neves
+
+Esquina de label: 1537807545
+Ruas cobertas pela câmera: 
+Rua Barão do Rio Branco
+--Rua Sem Nome 25--
+Rua Marechal Deodoro
+
+Esquina de label: 1755762675
+Ruas cobertas pela câmera: 
+Rua José Valentim da Silva
+Rua do Ouro
+
+Esquina de label: 3278704570
+Ruas cobertas pela câmera: 
+Rua Professor Geraldo Luiz Oliveira de Resende
+--Rua Sem Nome 55--
+
+Esquina de label: 3615963916
+Ruas cobertas pela câmera: 
+Rua Gomes Pedroso
+
+Esquina de label: 1764783007
+Ruas cobertas pela câmera: 
+Rua Maria R. Carvalho
+--Rua Sem Nome 92--
+
+Esquina de label: 3214297392
+Ruas cobertas pela câmera: 
+Praça Raul Soares
+
+Esquina de label: 1763815940
+Ruas cobertas pela câmera: 
+Rua Rossini Bacarini
+Rua Jeudiel Torga
+
+Esquina de label: 1764572474
+Ruas cobertas pela câmera: 
+Rua Marcondes Neves
+Rua do Tanque
+
+Esquina de label: 3612842123
+Ruas cobertas pela câmera: 
+Rua Paulo Bastone
+Rua Vereador Vicente Cantelmo
+Rua Ubá
+Rua Afonso Marcelino da Silveira
+
+Esquina de label: 2800906159
+Ruas cobertas pela câmera: 
+Rua Modestino Ribeiro
+Rua Rossini Bacarini
+
+Esquina de label: 1764538613
+Ruas cobertas pela câmera: 
+Rua Padre José Pedro
+Rua Doutor Vicente Albergaria
+Rua General João Faria
+
+Esquina de label: 3617684019
+Ruas cobertas pela câmera: 
+Rua José Martins Garcia
+--Rua Sem Nome 122--
+Rua Amazônia
+
+Esquina de label: 8086864103
+Ruas cobertas pela câmera: 
+Rua Gonçalves Coelho
+Rua Luís Bacarini
+
+Esquina de label: 1764538491
+Ruas cobertas pela câmera: 
+Rua Sílvio Magalhães
+Rua Sargento Wilson Ramos
+Rua Professor Pedro Raposo
+
+Esquina de label: 3278704596
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 68--
+--Rua Sem Nome 69--
+
+Esquina de label: 3611329780
+Ruas cobertas pela câmera: 
+--Rua Sem Nome 87--
+
+Esquina de label: 3214297385
+Ruas cobertas pela câmera: 
+Praça Raul Soares
+Avenida Presidente Tancredo Neves
+Rua Luiz Cardoso
+
+Esquina de label: 1764783004
+Ruas cobertas pela câmera: 
+Rua Geraldo C. Almeida
+
+Esquina de label: 1752079768
+Ruas cobertas pela câmera: 
+Rua Geraldo Pinto Lima
+
+Esquina de label: 1752079776
+Ruas cobertas pela câmera: 
+Rua Carmélio Rubens
+--Rua Sem Nome 12--
+
+Esquina de label: 1752056109
+Ruas cobertas pela câmera: 
+Rua Vereador Vicente Cantelmo
+Rua Frederico Ozanan
+Rua Gustavo Alves Braga
+
+Esquina de label: 3612842117
+Ruas cobertas pela câmera: 
+Rua João Alfenes da Silva
+Rua Frederico Ozanan
+
